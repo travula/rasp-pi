@@ -1,0 +1,26 @@
+#+TITLE: An introduction to Respberry Pie
+#+AUTHOR: Thirumal Ravula
+#+DATE: [2017-12-14 Thu]
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+
+* Introduction
+  All the explorations, plans, things to be done to
+  introduce computers as fun through doing stuff with
+  raspberry pie and all other things related to it are
+  captured here. 
+
+* On Boarding
+  Let us build media studio.  This is a hands-on project and
+  does not require any programming.  Please follow these
+  [[https://github.com/travula/mediamakerslides/blob/master/src/notes-from-dinesh.org][instructions]] and build the studio.
+
+  Let us use issues on github for our communication. 
+
+
+
+
+
